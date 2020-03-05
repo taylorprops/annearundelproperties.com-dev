@@ -62,7 +62,7 @@ class PageController extends Controller {
 
     public function agents_list(Request $request) {
 
-        $agents = Agent::where('company', 'Taylor Properties')
+        $agents = Agent::where('company', 'Anne Arundel Properties')
             -> orderByRaw('SUBSTR(photo_url, 1, 2) DESC')
             -> orderByRaw('designations DESC')
             -> orderByRaw('bio DESC')
@@ -73,12 +73,15 @@ class PageController extends Controller {
 
     public function searchAgents(Request $request) {
 
-        $agents = Agent::where('firstname', 'like', '%' . $request -> val . '%')
-            -> orWhere('lastname', 'like', '%' . $request -> val . '%')
-            -> orWhere('fullname', 'like', '%' . $request -> val . '%')
-            -> orWhere('cell', 'LIKE', '%' . $request -> val . '%')
-            -> orWhere('bio', 'LIKE', '%' . $request -> val . '%')
-            -> orWhere('designations', 'LIKE', '%' . $request -> val . '%')
+        $agents = Agent::where('company', 'Anne Arundel Properties')
+            -> where(function($query) use ($request) {
+                $query -> where('firstname', 'like', '%' . $request -> val . '%')
+                    -> orWhere('lastname', 'like', '%' . $request -> val . '%')
+                    -> orWhere('fullname', 'like', '%' . $request -> val . '%')
+                    -> orWhere('cell', 'LIKE', '%' . $request -> val . '%')
+                    -> orWhere('bio', 'LIKE', '%' . $request -> val . '%')
+                    -> orWhere('designations', 'LIKE', '%' . $request -> val . '%');
+            })
             -> orderByRaw('SUBSTR(photo_url, 1, 2) DESC')
             -> orderByRaw('designations DESC')
             -> orderByRaw('bio DESC')
@@ -125,7 +128,7 @@ class PageController extends Controller {
         if($request -> type == 'from_agent') {
 
             $to_email = Config::get('email_routing.join_form.email');
-            $user -> subject = 'Agent Lead – Taylor Properties Website';
+            $user -> subject = 'Agent Lead – Anne Arundel Properties Website';
 
             $existing = Prospects::where('p_email', $request -> email) -> first();
 
@@ -133,7 +136,7 @@ class PageController extends Controller {
 
                 // add to prospects
                 $prospect = new Prospects();
-                $prospect -> p_source = 'www.TaylorProperties.co';
+                $prospect -> p_source = 'www.AnneArundelProperties.com';
                 $prospect -> p_email = $user -> email;
                 $prospect -> p_name = $user -> name;
                 $prospect -> p_phone = $user -> phone;
@@ -155,12 +158,12 @@ class PageController extends Controller {
         } else if($request -> type == 'to_agent') {
 
             $to_email = $request -> agent_email;
-            $user -> subject = 'Message From Client via www.taylorproperties.co';
+            $user -> subject = 'Message From Client via www.AnneArundelProperties.com';
 
         } else if($request -> type == 'buy_sell') {
 
             $to_email = Config::get('email_routing.contact_form.email');
-            $user -> subject = 'Buyer/Seller Lead – Taylor Properties Website';
+            $user -> subject = 'Buyer/Seller Lead – Anne Arundel Properties Website';
 
             $existing = Leads::where('l1_email', $request -> email) -> first();
 
@@ -168,7 +171,7 @@ class PageController extends Controller {
 
                 // add to leads
                 $lead = new Leads();
-                $lead -> l_source = 'www.TaylorProperties.co';
+                $lead -> l_source = 'www.AnneArundelProperties.com';
                 $lead -> l1_email = $user -> email;
                 $lead -> l1_first = substr($user -> name, 0, strpos($user -> name, ' '));
                 $lead -> l1_last = substr($user -> name, strpos($user -> name, ' '));

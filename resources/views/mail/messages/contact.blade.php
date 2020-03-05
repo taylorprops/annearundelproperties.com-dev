@@ -1,9 +1,9 @@
 <div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px;max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-	Contact request sent from www.taylorproperties.co
+	Contact request sent from www.AnneArundelProperties.com
 </div>
 @component('mail::message')
 
-<div style="font-size: 18px; font-weight: bold">Contact form submitted on taylorproperties.co</div>
+<div style="font-size: 18px; font-weight: bold">Contact form submitted on www.AnneArundelProperties.com</div>
 <table id="" cellpadding="6">
     <tbody>
         <tr>

@@ -51,7 +51,7 @@ class SearchController extends Controller {
 
             // add to leads
             $lead = new Leads();
-            $lead -> l_source = 'www.TaylorProperties.co';
+            $lead -> l_source = 'www.AnneArundelProperties.com';
             $lead -> l1_email = $request -> email;
             $lead -> l1_first = substr($request -> name, 0, strpos($request -> name, ' '));
             $lead -> l1_last = substr($request -> name, strpos($request -> name, ' '));
@@ -229,7 +229,7 @@ class SearchController extends Controller {
 
             // add to leads
             $lead = new Leads();
-            $lead -> l_source = 'www.TaylorProperties.co';
+            $lead -> l_source = 'www.AnneArundelProperties.com';
             $lead -> l1_email = $request -> email;
             $lead -> l1_first = substr($request -> name, 0, strpos($request -> name, ' '));
             $lead -> l1_last = substr($request -> name, strpos($request -> name, ' '));

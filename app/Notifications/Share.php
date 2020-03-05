@@ -43,7 +43,7 @@ class Share extends Notification
         $details = $this -> share;
 
         return (new MailMessage)
-            -> from('clientservices@taylorprops.com', 'Taylor Properties')
+            -> from('clientservices@taylorprops.com', 'Anne Arundel Properties')
             -> subject($details['subject'])
             -> markdown('mail.share.share', ['share' => $this -> share]);
     }

@@ -5,7 +5,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
         <a class="navbar-brand" href="/">
-            <img src="{{ asset('images/logos/logo-horizantal-white.png') }}" alt="Taylor Properties" width="150">
+            <img src="{{ asset('images/logos/logo-horizantal-white.png') }}" alt="Anne Arundel Properties" width="150">
         </a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent-4">

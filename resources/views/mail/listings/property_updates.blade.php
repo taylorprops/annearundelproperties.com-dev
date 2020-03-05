@@ -1,11 +1,11 @@
 <div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px;max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-	Property Updates from Taylor Properties
+	Property Updates from Anne Arundel Properties
 </div>
 
 @component('mail::message')
 
 <div style="font-weight: normal; font-size: 18px; width: 100%; text-align: center">
-    Property Updates from Taylor Properties for you search
+    Property Updates from Anne Arundel Properties for you search
     <br>
     <span class="text-primary" style="font-size: 24px; font-weight: bold">{{ $email_data['search_name'] }}</span>
 </div>

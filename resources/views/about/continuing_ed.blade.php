@@ -1,5 +1,5 @@
 @extends('layouts.landingpage')
-@section('title', 'Real Estate Classes | Training & Mentoriing Programs | Taylor Properties')
+@section('title', 'Real Estate Classes | Training & Mentoriing Programs | Anne Arundel Properties')
 @section('content')
 <div class="" style="background-image: url(images/curb-appeal.jpg);">
     <div class="container">

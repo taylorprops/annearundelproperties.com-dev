@@ -41,8 +41,8 @@ class UserRegistered extends Notification
     public function toMail($notifiable)
     {
         return (new MailMessage)
-            -> from('clientservices@taylorprops.com', 'Taylor Properties')
-            -> subject('Thank you for registering with Taylor Properties')
+            -> from('clientservices@taylorprops.com', 'Anne Arundel Properties')
+            -> subject('Thank you for registering with Anne Arundel Properties')
             -> markdown('mail.user.register', ['user' => $this -> user]);
     }
 

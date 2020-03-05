@@ -42,7 +42,7 @@
                 <div class="card bg-primary-dark">
                     <div class="card-body white-text">
                         <h4 class="card-title"><a href="/agents" class="orange-text"><i class="fal fa-person-sign mr-3 fa-1x"></i> Need an Agent?</a></h4>
-                        <p class="card-text white-text"> Having the right agent makes all the difference in finding that perfect home. Taylor Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.
+                        <p class="card-text white-text"> Having the right agent makes all the difference in finding that perfect home. Anne Arundel Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.
                             <br>
                             <a href="/agents" class="btn btn-secondary btn-sm">Search Agents</a>
                         </p>
@@ -56,7 +56,7 @@
                         <p class="card-text white-text">
                             <strong>Make The Move!</strong><br>
                             Looking for a career change or a better brokerage for your
-                            needs? See why Taylor Properties is now the largest independent brokerage in Maryland.
+                            needs? See why Anne Arundel Properties is now the largest independent brokerage in Maryland.
                             <br>
                             <a href="/careers" class="btn btn-secondary btn-sm">View Details</a>
                         </p>
@@ -72,10 +72,10 @@
             <div class="intro-text">
                 <p class="intro-open text-center font-12">They say "home is where the heart is" and
                     we know that finding the perfect home can be a daunting task. You need an experienced partner who
-                    knows the neighborhoods, the market and the process. At Taylor Properties, we understand that we are
+                    knows the neighborhoods, the market and the process. At Anne Arundel Properties, we understand that we are
                     not only selling or buying your home. It is much more than that.</p>
                 <p class="intro-close text-center text-primary" style="font-size: 1.4rem;font-family: 'Merriweather', serif;font-weight: 700;">
-                    Taylor&nbsp;Properties. Love&nbsp;your&nbsp;home.</p>
+                    Anne Arundel Properties. Love&nbsp;your&nbsp;home.</p>
             </div>
         </div>
     </div> --}}

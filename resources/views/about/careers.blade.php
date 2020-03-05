@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', '100% Commission Real Estate Brokerage | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', '100% Commission Real Estate Brokerage | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 
 @section('content')
 <div class="page-container page-careers">
@@ -13,9 +13,9 @@
     <div class="container-fluid header">
         <div class="row">
             <div class="header-text">
-                <h2>Taylor Properties Careers</h2>
-                <p>Behind every great company are great people. That is why, as an agent of Taylor Properties, you can count on a Broker that will tap into your strengths, offer the training you need and give you all the tools to advance your career. We believe that most people want more than just a job in real estate; they want a rewarding career. Real estate offers you the flexibility to run your own business as you see fit with all the support you need from your Broker, all the while offering you an industry leading <strong>100% Commission</strong>.</p>
-                <p>Our goal is to be the mid-Atlantic's premier real estate services company. At Taylor Properties, we promote a culture of caring. Since 1985, we've grown to be the <strong>Largest Independent Brokerage in Maryland</strong> and we are always looking to add exceptional talent to our team. We strive to uplift others while raising the bar on what we're capable of achieving ourselves. In helping our clients and our community through what we do every day, that is what makes Taylor Properties an admired company and a great place to work.</p>
+                <h2>Anne Arundel Properties Careers</h2>
+                <p>Behind every great company are great people. That is why, as an agent of Anne Arundel Properties, you can count on a Broker that will tap into your strengths, offer the training you need and give you all the tools to advance your career. We believe that most people want more than just a job in real estate; they want a rewarding career. Real estate offers you the flexibility to run your own business as you see fit with all the support you need from your Broker, all the while offering you an industry leading <strong>100% Commission</strong>.</p>
+                <p>Our goal is to be the mid-Atlantic's premier real estate services company. At Anne Arundel Properties, we promote a culture of caring. Since 1985, we've grown to be the <strong>Largest Independent Brokerage in Maryland</strong> and we are always looking to add exceptional talent to our team. We strive to uplift others while raising the bar on what we're capable of achieving ourselves. In helping our clients and our community through what we do every day, that is what makes Anne Arundel Properties an admired company and a great place to work.</p>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@
                         <div class="row">
                             <div class="col-md-12 text-center">
                                 <h2 class="pb-2">Numbers speak louder than words</h2>
-                                <h5>How does your commission compare? Calculate how much more you could make with Taylor Properties commission plans.</h5>
+                                <h5>How does your commission compare? Calculate how much more you could make with Anne Arundel Properties commission plans.</h5>
                             </div>
                         </div>
                     </div>

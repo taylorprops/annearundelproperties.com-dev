@@ -1,5 +1,5 @@
 @extends('layouts.landingpage')
-@section('title', '100% Commission Calculator | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', '100% Commission Calculator | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 
 
 @section('content')
@@ -10,7 +10,7 @@
                 <div class="col-md-12">
                     <h1>Commission Calculator</h1>
                     <h4>Don't settle for less. Get more from your broker.</h4>
-                    <p>Use the calculator below to see how much more you will make by joining Taylor Properties. Use that money to re-invest in your real estate business, put into retirement, or save it for a rainy day!</p>
+                    <p>Use the calculator below to see how much more you will make by joining Anne Arundel Properties. Use that money to re-invest in your real estate business, put into retirement, or save it for a rainy day!</p>
                 </div>
             </div>
             <div class="row">
@@ -124,7 +124,7 @@
                                     <p class="red-text text-center">$<span class="paidToBroker">0</span></p>
                                 </td>
                                 <td style="width: 50%;">
-                                    <p class="text-center">Amount paid to Taylor&nbsp;Properties</p>
+                                    <p class="text-center">Amount paid to Anne Arundel Properties</p>
                                     <p class="green-text text-center">$<span class="taylor100Fees">0</span></p>
                                 </td>
                             </tr>
@@ -134,7 +134,7 @@
                                     <p class="red-text text-center">$<span class="earnedCurrentBroker">0</span></p>
                                 </td>
                                 <td style="width: 50%;">
-                                    <p class="text-center">Amount Earned Taylor&nbsp;Properties</p>
+                                    <p class="text-center">Amount Earned Anne Arundel Properties</p>
                                     <p class="green-text text-center">$<span class="totalAmountEarned100">0</span></p>
                                 </td>
                             </tr>
@@ -148,7 +148,7 @@
                                     <p class="red-text text-center">$<span class="paidToBroker">0</span></p>
                                 </td>
                                 <td style="width: 50%;">
-                                    <p class="text-center">Amount paid to Taylor&nbsp;Properties</p>
+                                    <p class="text-center">Amount paid to Anne Arundel Properties</p>
                                     <p class="green-text text-center">$<span class="taylor85Fees">0</span></p>
                                 </td>
                             </tr>
@@ -158,7 +158,7 @@
                                     <p class="red-text text-center">$<span class="earnedCurrentBroker">0</span></p>
                                 </td>
                                 <td style="width: 50%;">
-                                    <p class="text-center">Amount Earned Taylor&nbsp;Properties</p>
+                                    <p class="text-center">Amount Earned Anne Arundel Properties</p>
                                     <p class="green-text text-center">$<span class="totalAmountEarned85">0</span></p>
                                 </td>
                             </tr>
@@ -251,7 +251,7 @@
 			$('.earnedCurrentBroker').html(earnedCurrentBroker);
 			$('.earnedCurrentBroker').html(earnedCurrentBroker);
 
-			//amount paid to Taylor Properties
+			//amount paid to Anne Arundel Properties
             var paidToTP85 = revenueAfterCommPercent * .15;
 			$('.taylor100Fees').html(taylor100Fees);
             $('.taylor85Fees').html(paidToTP85);

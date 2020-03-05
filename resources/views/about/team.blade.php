@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Our Staff | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Our Staff | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 <style type="text/css">
 	.imagebox {

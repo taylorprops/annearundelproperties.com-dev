@@ -31,7 +31,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container" style="margin-bottom: 0;">
         <a class="navbar-brand" href="/100-commission-real-estate-broker">
-            <img id="logo" src="{{ asset('images/logos/TaylorProperties-blackblue.png') }}" alt="Taylor Properties" style="max-width: 125px;">
+            <img id="logo" src="{{ asset('images/logos/TaylorProperties-blackblue.png') }}" alt="Anne Arundel Properties" style="max-width: 125px;">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

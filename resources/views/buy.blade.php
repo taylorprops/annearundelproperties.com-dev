@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Buying a Home | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Buying a Home | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 
 <div class="page-container page-buy">
@@ -8,7 +8,7 @@
             <div class="header-text">
                 <h1>Home Buying Tips</h1>
                 <p>When you imagine your dream home, what do you see? Size, location, lifestyle are all factors when envisioning your perfect home and all of those are important in how you feel once you walk through that front door. Having the right agent
-                    makes all the difference in finding that perfect home. Taylor Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.</p>
+                    makes all the difference in finding that perfect home. Anne Arundel Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.</p>
             </div>
         </div>
     </div>

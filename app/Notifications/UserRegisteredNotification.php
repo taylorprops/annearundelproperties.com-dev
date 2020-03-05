@@ -41,16 +41,16 @@ class UserRegisteredNotification extends Notification
     public function toMail($notifiable)
     {
         $ccs = Config::get('email_routing.client_register_ccs.emails');
-        $subject = 'New Lead - A Client Just Registered on www.TaylorProperties.co';
+        $subject = 'New Lead - A Client Just Registered on www.AnneArundelProperties.com';
         if($ccs != '') {
             return (new MailMessage)
-                -> from('clientservices@taylorprops.com', 'Taylor Properties')
+                -> from('clientservices@taylorprops.com', 'Anne Arundel Properties')
                 -> cc(explode(',', Config::get('email_routing.client_register_ccs.emails')))
                 -> subject($subject)
                 -> markdown('mail.listings.user_registered_notification', ['user' => $this -> user]);
         } else {
             return (new MailMessage)
-            -> from('clientservices@taylorprops.com', 'Taylor Properties')
+            -> from('clientservices@taylorprops.com', 'Anne Arundel Properties')
                 -> subject($subject)
                 -> markdown('mail.listings.user_registered_notification', ['user' => $this -> user]);
         }

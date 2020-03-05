@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'About Us | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'About Us | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 <div class="page-container page-about">
     <div class="container">
@@ -11,10 +11,10 @@
         </div>
         <div class="row" style="max-width: 75%; margin: 0 auto;">
             <div class="col-md-6">
-                <img src="/images/about/robb-oldpic-1978.jpg" class="img-fluid float-left" alt="Taylor Properties - Robb Taylor 1978">
+                <img src="/images/about/robb-oldpic-1978.jpg" class="img-fluid float-left" alt="Anne Arundel Properties - Robb Taylor 1978">
             </div>
             <div class="col-md-6">
-                <img src="/images/about/robb-oldpics-79.jpg" class="img-fluid float-left" alt="Taylor Properties - Robb Taylor 1979">
+                <img src="/images/about/robb-oldpics-79.jpg" class="img-fluid float-left" alt="Anne Arundel Properties - Robb Taylor 1979">
             </div>
             <div class="col-md-12">
                 <p><i>(Photos - Robb Taylor started his real estate career in 1972 and soon thereafter partnered with his father, Bob Taylor, to open four Taylor Realty offices on the Eastern Shore of Maryland.)</i></p>
@@ -22,8 +22,8 @@
         </div>
         <div class="row mt-4">
             <div class="col-md-12">
-                <p>After a few years, the brokerage and its agents were so successful that agents from other areas wanted to take advantage of the 100% Commission business model. Thus, Taylor Properties was born. Taylor Properties offered the same structure and benefits as AAP but less restrictive on the areas which agents would be able to serve.</p>
-                <p>Today, Taylor Properties has grown to over 800 agents and continues to add to its impressive roster of premier agents. It is now the Largest Independent Real Estate Brokerage in Maryland and third largest overall. Taylor Properties is licensed in Washington D.C., Maryland, Virginia, and Pennsylvania.</p>
+                <p>After a few years, the brokerage and its agents were so successful that agents from other areas wanted to take advantage of the 100% Commission business model. Thus, Anne Arundel Properties was born. Anne Arundel Properties offered the same structure and benefits as AAP but less restrictive on the areas which agents would be able to serve.</p>
+                <p></p>
             </div>
         </div>
         <div class="row mt-4" style="width: 70%; margin: 0 auto;">

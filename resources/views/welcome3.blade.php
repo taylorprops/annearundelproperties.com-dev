@@ -9,7 +9,7 @@
 
             <div class="col-lg-5 d-flex align-items-center text-center">
                 <div class="w-100">
-                    <h1 class="display-3">Taylor Properties</h1>
+                    <h1 class="display-3">Anne Arundel Properties</h1>
                     <h4 class="subheading">Maryland's Largest Independent Real Estate Broker</h4>
 
                     <div class="container d-none d-xl-block mt-5">
@@ -21,7 +21,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="card-title">Careers</h5>
-                                        <p class="card-text">See why so many agents are leaving tradional Brokers and joining Taylor Properties</p>
+                                        <p class="card-text">See why so many agents are leaving tradional Brokers and joining Anne Arundel Properties</p>
                                         <a class="btn btn-secondary">More Info</a>
                                     </div>
                                 </div>

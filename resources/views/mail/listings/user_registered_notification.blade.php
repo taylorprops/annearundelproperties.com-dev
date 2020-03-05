@@ -1,9 +1,9 @@
 <div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px;max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
-	New Lead - A Client Just Registered on www.TaylorProperties.co
+	New Lead - A Client Just Registered on www.AnneArundelProperties.com
 </div>
 @component('mail::message')
 
-<div style="font-size: 18px; font-weight: bold">A Client Just Registered on taylorproperties.co</div>
+<div style="font-size: 18px; font-weight: bold">A Client Just Registered on www.AnneArundelProperties.com</div>
 <table id="" cellpadding="6">
     <tbody>
         <tr>

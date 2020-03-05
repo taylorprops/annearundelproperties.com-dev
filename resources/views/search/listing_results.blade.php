@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Taylor Properties')
+@section('title', 'Anne Arundel Properties')
 @section('content')
 
 <div class="search-page-container page-results">

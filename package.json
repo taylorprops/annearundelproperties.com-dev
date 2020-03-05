@@ -58,7 +58,7 @@
     "swiper": "^4.5.0",
     "whatwg-fetch": "^3.0.0"
   },
-  "name": "taylorproperties-finaldevv2",
+  "name": "annearundelproperties-dev",
   "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
   "version": "1.0.0",
   "main": "webpack.mix.js",

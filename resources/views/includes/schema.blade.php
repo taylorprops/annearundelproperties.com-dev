@@ -2,11 +2,11 @@
 <script type="application/ld+json">
     { "@context" : "http://schema.org",
     "@type" : "LocalBusiness",
-    "name" : "Taylor Properties",
+    "name" : "Anne Arundel Properties",
     "image" : "{{ asset('images/logos/TaylorProperties-horizontal-fullcolor.png') }}",
     "telephone" : "800-590-0925",
     "address" : { "@type" : "PostalAddress", "streetAddress" : "175 Admiral Cochrane Drive, Suite 112", "addressLocality" : "Annapolis", "addressRegion" : "MD", "postalCode" : "21401" },
     "openingHoursSpecification" : { "@type" : "OpeningHoursSpecification", "dayOfWeek" : { "@type" : "DayOfWeek", "name"
     : "Monday - Friday" } },
-    "url" : "www.taylorproperties.co" }
+    "url" : "www.AnneArundelProperties.com" }
 </script>

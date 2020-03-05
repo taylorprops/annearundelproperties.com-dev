@@ -57,7 +57,7 @@
     </div>
     <!-- Footer Links -->
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">Copyright&copy; Taylor Properties<br><img src="/images/logos/eho-realtor-logos.png" style="max-width: 50px;" alt="Realtor - Equal Housing Opportunity">
+    <div class="footer-copyright text-center py-3">Copyright&copy; Anne Arundel Properties<br><img src="/images/logos/eho-realtor-logos.png" style="max-width: 50px;" alt="Realtor - Equal Housing Opportunity">
     </div>
     <!-- Copyright -->
 </footer>

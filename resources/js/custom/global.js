@@ -71,9 +71,9 @@ $(document).ready(function () {
         $('#shareModalLabel').html(heading);
 
 
-        preview = '<div class="row"><div class="col-12 p-3">Check out the property I found for sale on Taylor Properties website</div></div> <div class="row"> <div class="col-12 col-sm-4"><img class="img-fluid" src="'+image+'"></div> <div class="col-12 col-sm-8">'+address+'<br>'+price+'<br>'+beds+'<br><a href="' + link + '" target="_blank">View Listing</a></div> </div>';
+        preview = '<div class="row"><div class="col-12 p-3">Check out the property I found for sale on Anne Arundel Properties website</div></div> <div class="row"> <div class="col-12 col-sm-4"><img class="img-fluid" src="'+image+'"></div> <div class="col-12 col-sm-8">'+address+'<br>'+price+'<br>'+beds+'<br><a href="' + link + '" target="_blank">View Listing</a></div> </div>';
 
-        message = '<table width="100%"> <tbody> <tr> <td colspan="2">Check out the property I found for sale on Taylor Properties website</td></tr><tr><td width="40%" class="full"><img style="width: 90%; margin-left: auto; margin-right: auto" src="' + image + '"></td><td width="60%" class="full">' + address + '<br>'+price+'<br>' + beds + '<br><a href="' + link + '" target="_blank">View Listing</a></td></tr></tbody> </table>';
+        message = '<table width="100%"> <tbody> <tr> <td colspan="2">Check out the property I found for sale on Anne Arundel Properties website</td></tr><tr><td width="40%" class="full"><img style="width: 90%; margin-left: auto; margin-right: auto" src="' + image + '"></td><td width="60%" class="full">' + address + '<br>'+price+'<br>' + beds + '<br><a href="' + link + '" target="_blank">View Listing</a></td></tr></tbody> </table>';
 
         $('#share_message').html(preview);
 
@@ -115,9 +115,9 @@ $(document).ready(function () {
         $('#shareModalLabel').html(heading);
 
 
-        preview = '<div class="row"><div class="col-12 p-3">Taylor Properties Agent</div></div> <div class="row"> <div class="col-12 col-sm-4"><img class="img-fluid"  style="max-height: 200px; max-width: 200px" src="'+image+'"></div> <div class="col-12 col-sm-8">'+agent_name+'<br>'+agent_phone+'<br>'+agent_email+'<br><a href="' + link + '" target="_blank">View Agent Details</a></div> </div>';
+        preview = '<div class="row"><div class="col-12 p-3">Anne Arundel Properties Agent</div></div> <div class="row"> <div class="col-12 col-sm-4"><img class="img-fluid"  style="max-height: 200px; max-width: 200px" src="'+image+'"></div> <div class="col-12 col-sm-8">'+agent_name+'<br>'+agent_phone+'<br>'+agent_email+'<br><a href="' + link + '" target="_blank">View Agent Details</a></div> </div>';
 
-        message = '<table width="100%"><tr> <td colspan="2">Taylor Properties Agent</td></tr><tr><td width="50%" class="full"> <img style="max-height: 300px; max-width: 300px" src="' + image + '"> </td><td width="50%" class="full"> <p>' + agent_name + '<br>' + agent_phone + '<br>' + agent_email + '<br><a href="' + link + '" target="_blank">View Agent Details</a></p></td></tr></table>';
+        message = '<table width="100%"><tr> <td colspan="2">Anne Arundel Properties Agent</td></tr><tr><td width="50%" class="full"> <img style="max-height: 300px; max-width: 300px" src="' + image + '"> </td><td width="50%" class="full"> <p>' + agent_name + '<br>' + agent_phone + '<br>' + agent_email + '<br><a href="' + link + '" target="_blank">View Agent Details</a></p></td></tr></table>';
 
         $('#share_message').html(preview);
 

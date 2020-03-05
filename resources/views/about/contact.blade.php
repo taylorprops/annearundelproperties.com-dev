@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Contact Us | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Contact Us | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('css')
 <style type="text/css">
     /* Required for full background image */

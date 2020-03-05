@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Privacy Policy | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Privacy Policy | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 <main role="main">
   <div class="container">
@@ -8,7 +8,7 @@
         <div class="disclaimer" style="text-align: left;">
           <h1>PRIVACY STATEMENT</h1>
           <h4>Introduction</h4>
-          <p>Taylor Properties operates the web site at www.taylorproperties.co ("Site"). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have previously visited our Site. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user ("Personal Information"), and how we use aggregated information.</p>
+          <p>Anne Arundel Properties operates the web site at www.AnneArundelProperties.com ("Site"). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have previously visited our Site. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user ("Personal Information"), and how we use aggregated information.</p>
           <p>BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE. We reserve the right to modify this Statement at any time by posting a notice on the Site's home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes.</p>
           <p>Location of Servers and Transfer of Information to the United States</p>
           <p>The Site is hosted by servers in the United States. If you are located outside of the United States, your Personal Information will be transferred to the United States. By submitting your Personal Information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Statement.</p>
@@ -43,37 +43,37 @@
           <p>Our hosting services maintains its systems in accordance with reasonable industry standards to reasonably secure the information of its customers. However, no data transmission over the Internet can be guaranteed to be 100% secure. "Perfect security" does not exist on the Internet, and you use the Site at your own risk.</p>
           <h4>6. Correction/Updating Personal Information</h4>
           <p>If your Personal Information changes or if you no longer wish to use the Site, you may correct or update your Personal Information or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, writing to customer service at:</p>
-          <p>Taylor Properties<br>
+          <p>Anne Arundel Properties<br>
             175 Admiral Cochrane Dr.<br/>
             Suite 111<br/>
             Annapolis, MD 21401<br/>
             <br/>
-            or sending an email from the following link: <a href="/contact-us">https://www.taylorproperties.co/contact-us</a>.</p>
+            or sending an email from the following link: <a href="/contact-us">https://www.AnneArundelProperties.com/contact-us</a>.</p>
             <h4>7. Children</h4>
             <p>This Site is not directed to children under the age of 13 ("Children"), and we do not knowingly collect any information, including Personal Information, from Children.</p>
             <h4>8. California Privacy Rights</h4>
             <p>Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities]during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties. To request the above information please contact us by writing to customer service at:</p>
-            <p>Taylor Properties<br>
+            <p>Anne Arundel Properties<br>
               175 Admiral Cochrane Dr.<br/>
               Suite 111-112<br/>
               Annapolis, MD 21401<br/>
               <br/>
-              or sending an email from the following link: <a href="/contact-us">https://www.taylorproperties.co/contact-us</a>.</p>
+              or sending an email from the following link: <a href="/contact-us">https://www.AnneArundelProperties.com/contact-us</a>.</p>
               <p>We will respond to such requests within 30 days of receipt. Please note that we are only required to respond to each customer once per calendar year.</p>
               <h4>9. Comments and Questions</h4>
               <p>If you have any questions or concerns about this Privacy Statement, please contact us by using the Contact Us feature or by postal mail at:</p>
-              <p>Taylor Properties<br>
+              <p>Anne Arundel Properties<br>
                 175 Admiral Cochrane Dr.<br/>
                 Suite 111-112<br/>
                 Annapolis, MD 21401
               </p>
               <h4>TCPA & Registration</h4>
-              <p>If you choose to register on our website you hereby consent to receive solicitation from Taylor Properties and its affiliates. Standard message and data rates may apply. You acknowledge that you may receive emails or communications with mortgage-related information. You also certify that the provided number is your actual cell phone number and not that of anyone else.</p>
+              <p>If you choose to register on our website you hereby consent to receive solicitation from Anne Arundel Properties and its affiliates. Standard message and data rates may apply. You acknowledge that you may receive emails or communications with mortgage-related information. You also certify that the provided number is your actual cell phone number and not that of anyone else.</p>
               <h4>GDPR Compliance</h4>
               <p>This website is intended solely for individuals residing outside of the European Union. By accessing and using this Site, you hereby agree and represent either (i) you are not a resident of the European Union, or (ii) if you are a resident of the European Union, that you hereby provide express consent to any personal information which may be collected from you by this Site, including, but not limited to, first name, last name, email address, phone number, physical address, IP address, and social media accounts and information. In no event shall any user cause this Site to collect personal information of any individual residing in the European Union without first obtaining the express consent of such individual.</p>
               <h2>Disclaimers</h2>
               <h4>MLS® Disclaimer</h4>
-              <p>Information deemed reliable but is not guaranteed. The data relating to real estate for sale on this web site comes in part from the Internet Data Exchange Program of MRIS. Information provided is for consumer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. TAylor Properties does not display the entire MLS database on this website. This site will be monitored for 'scraping' and any use of search facilities of data on the site other than by a consumer looking to purchase real estate, is prohibited. Listing broker has attempted to offer accurate data, but buyers are advised to confirm all items. Information last updated on <?php echo date("F j, Y, g:i a e"); ?>.</p>
+              <p>Information deemed reliable but is not guaranteed. The data relating to real estate for sale on this web site comes in part from the Internet Data Exchange Program of MRIS. Information provided is for consumer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Anne Arundel Properties does not display the entire MLS database on this website. This site will be monitored for 'scraping' and any use of search facilities of data on the site other than by a consumer looking to purchase real estate, is prohibited. Listing broker has attempted to offer accurate data, but buyers are advised to confirm all items. Information last updated on <?php echo date("F j, Y, g:i a e"); ?>.</p>
               <p>The listing information on this web site is from various brokers who participate in IDX.</p>
               <p>Copyright 2020 MRIS. All rights reserved.</p>
               <h4>Bright MLS Disclaimer</h4>

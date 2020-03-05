@@ -43,8 +43,8 @@ class PropertyEmailUpdate extends Notification
     {
 
         return (new MailMessage)
-            -> from('clientservices@taylorprops.com', 'Taylor Properties')
-            -> subject('Property Updates from Taylor Properties')
+            -> from('clientservices@taylorprops.com', 'Anne Arundel Properties')
+            -> subject('Property Updates from Anne Arundel Properties')
             -> markdown('mail.listings.property_updates', ['email_data' => $this -> email_data]);
     }
 

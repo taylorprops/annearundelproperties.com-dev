@@ -1,11 +1,11 @@
 @extends('layouts.landingpage')
 
 @section('title')
-100&#37; Commission Real Estate Broker | Taylor Properties | Serving Maryland, Washington D.C., Virginia and Pennsylavania
+100&#37; Commission Real Estate Broker | Anne Arundel Properties | Serving Maryland, Washington D.C., Virginia and Pennsylavania
 @endsection
 
 @section('meta-description')
-The best 100&#37; commission real estate broker licensed in Maryland, Virgina, Washington D.C. and Pennsylvania offering agents the best environment to earn and learn!
+The best 100&#37; commission real estate broker licensed in Maryland offering agents the best environment to earn and learn!
 @endsection
 
 @section('meta-keywords')
@@ -21,7 +21,7 @@ The best 100&#37; commission real estate broker licensed in Maryland, Virgina, W
 
         <!-- Content -->
         <h1 class="my-4 py-2 text-white font-weight-bold">100&#37; Commission Real Estate Brokerage</h1>
-        <p class="mb-4 pb-2 px-md-5 mx-md-5 lead">Behind every great company, is great people. That is why, as an agent of Taylor Properties, you can count on a broker that will tap into your strengths, offer the training you need and give you all the tools to advance your career. We believe most people want more than a job in real estate; they want a rewarding career. Real estate offers you the flexibility to run your own business as you see fit with all the support you need from your broker, all while offering you an industry leading <strong>100% Commission</strong>.</p>
+        <p class="mb-4 pb-2 px-md-5 mx-md-5 lead">Behind every great company, is great people. That is why, as an agent of Anne Arundel Properties, you can count on a broker that will tap into your strengths, offer the training you need and give you all the tools to advance your career. We believe most people want more than a job in real estate; they want a rewarding career. Real estate offers you the flexibility to run your own business as you see fit with all the support you need from your broker, all while offering you an industry leading <strong>100% Commission</strong>.</p>
 
       </div>
     </div>
@@ -37,7 +37,7 @@ The best 100&#37; commission real estate broker licensed in Maryland, Virgina, W
         <!-- Section heading -->
         <h2 class="h1-responsive font-weight-bold my-5"><span style="color: #212529">What Makes</span> <span class="text-primary">Taylor Great?</span></h2>
         <!-- Section description -->
-        <p class="lead w-responsive mx-auto mb-5">Taylor Properties is a full-service real estate brokerage offering agents tools and support with the industry’s best commission plan.</p>
+        <p class="lead w-responsive mx-auto mb-5">Anne Arundel Properties is a full-service real estate brokerage offering agents tools and support with the industry’s best commission plan.</p>
 
         <!-- Grid row -->
         <div class="row">
@@ -86,7 +86,7 @@ The best 100&#37; commission real estate broker licensed in Maryland, Virgina, W
 
     <div class="page-container page-careers" style="margin-top: 0;">
       @include('includes.pricing_table')
-    </div> 
+    </div>
 
     <!--Section: Not enough-->
     <section>

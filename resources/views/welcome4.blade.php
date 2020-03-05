@@ -7,7 +7,7 @@
 
             <div class="col-lg-5 d-flex align-items-center text-center">
                 <div class="w-100">
-                    <h1 class="display-3">Taylor Properties</h1>
+                    <h1 class="display-3">Anne Arundel Properties</h1>
                     <h4 class="subheading">Maryland's Largest Independent Real Estate Broker</h4>
 
                     <div class="container d-none d-xl-block mt-5">
@@ -20,7 +20,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Careers</h5>
                                         <p class="card-text">See why so many agents are leaving tradional Brokers and
-                                            joining Taylor Properties</p>
+                                            joining Anne Arundel Properties</p>
                                         <a class="btn btn-secondary">More Info</a>
                                     </div>
                                 </div>
@@ -89,10 +89,10 @@
             <div class="intro-text">
                 <p class="intro-open text-center" style="font-size: 1.2rem;">They say "home is where the heart is" and
                     we know that finding the perfect home can be a daunting task. You need an experienced partner who
-                    knows the neighborhoods, the market and the process. At Taylor Properties, we understand that we are
+                    knows the neighborhoods, the market and the process. At Anne Arundel Properties, we understand that we are
                     not only selling or buying your home. It is much more than that.</p>
                 <p class="intro-close text-center text-primary" style="font-size: 1.4rem;font-family: 'Merriweather', serif;font-weight: 700;">
-                    Taylor&nbsp;Properties. Love&nbsp;your&nbsp;home.</p>
+                    Anne Arundel Properties. Love&nbsp;your&nbsp;home.</p>
             </div>
         </div>
     </div>
@@ -133,7 +133,7 @@
                                     <div>
                                         <h3 class="pt-2 text-white"><strong>Search Local Agents</strong></h3>
                                         <p>Having the right agent makes all the difference in finding that perfect home.
-                                            Taylor Properties has over 800 local agents serving the Washington D.C.,
+                                            Anne Arundel Properties has over 800 local agents serving the Washington D.C.,
                                             Maryland, Virginia and Pennsylvania regions.</p>
                                         <a class="btn btn-orange waves-effect waves-light" href="/agents"><i
                                                 class="fas fa-search left"></i> Search Agents</a>

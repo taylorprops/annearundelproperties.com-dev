@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Selling Your Home | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Selling Your Home | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 <div class="page-container page-sell">
     <div class="container-fluid header">
@@ -7,7 +7,7 @@
             <div class="header-text">
                 <h1>Sell Your Home</h1>
                 <p>Selling your home will likely be one of the biggest transactions of your life. Hiring the right agent will ensure a smooth process and relieve the stress selling your home can cause. Agents can create a broader exposure for your property, help you negotiate a better deal, utilize their knowledge in specialty situations and use their experience to ensure you are fully informed at all times.</p>
-                <p>Real estate is an intensely-localized commodity. Taylor Properties is the largest independent real estate brokerage in Maryland and continues to grow with new agents joining from Maryland, DC, Virginia and Pennsylvania each day. Let one of our agents take the stress of selling your home off your shoulders.</p>
+                <p>Real estate is an intensely-localized commodity. Anne Arundel Properties is the largest independent real estate brokerage in Maryland and continues to grow with new agents joining from Maryland, DC, Virginia and Pennsylvania each day. Let one of our agents take the stress of selling your home off your shoulders.</p>
             </div>
         </div>
     </div>
@@ -32,7 +32,7 @@
                 <div class="col-md-6 col-lg-6 ml-auto d-flex align-items-center mt-4 mt-md-0 order2">
                     <div>
                         <h2>Marketing</h2>
-                        <p class="">Getting your home ready to sell in only half the battle. Getting your home in-front of many qualified buyers as possible is the other half. To ensure your home is viewed by as many Home Buyers as possible, Taylor Properties' listings are advertised on all Real Estate websites. No matter if a Buyer is on Zillow.com or the website of a small Brokerage, your home will be displayed for all to see.</p>
+                        <p class="">Getting your home ready to sell in only half the battle. Getting your home in-front of many qualified buyers as possible is the other half. To ensure your home is viewed by as many Home Buyers as possible, Anne Arundel Properties' listings are advertised on all Real Estate websites. No matter if a Buyer is on Zillow.com or the website of a small Brokerage, your home will be displayed for all to see.</p>
                     </div>
                 </div>
                 <div class="col-md-6 order1">

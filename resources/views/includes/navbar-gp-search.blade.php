@@ -14,7 +14,7 @@
     <!--Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top scrolling-navbar main-nav p-0 p-lg-4">
         <a class="navbar-brand" href="/">
-            <img id="logo" src="{{ asset('images/logos/logo-horizantal-white.png') }}" alt="Taylor Properties" width="150">
+            <img id="logo" src="{{ asset('images/logos/logo-horizantal-white.png') }}" alt="Anne Arundel Properties" width="150">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">

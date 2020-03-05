@@ -24,7 +24,7 @@
                                                 </li>
                                                 <li>
                                                     @if (empty($agent -> website))
-                                                    <i class="fas fa-globe-americas mr-3 text-primary"></i> <a href="https://www.taylorproperties.co/" target="_blank">www.taylorproperties.co</a>
+                                                    <i class="fas fa-globe-americas mr-3 text-primary"></i> <a href="https://www.AnneArundelProperties.com/" target="_blank">www.AnneArundelProperties.com</a>
                                                     @else
                                                     <i class="fas fa-globe-americas mr-3 text-primary"></i> <a href="{{$agent -> website}}" target="_blank">{{$agent -> website}}</a>
                                                     @endif

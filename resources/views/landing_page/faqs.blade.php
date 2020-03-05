@@ -1,9 +1,9 @@
 @extends('layouts.landingpage')
 @section('title')
-FAQs | 100&#37; Commission Real Estate Brokerage | Taylor Properties
+FAQs | 100&#37; Commission Real Estate Brokerage | Anne Arundel Properties
 @endsection
 @section('meta-description')
-Frequently asked questions of the best 100&#37; commission real estate brokerage licensed in Maryland, Washington DC, Virgina and Pennsylvania offering agents the best environment to earn and learn!
+Frequently asked questions of the best 100&#37; commission real estate brokerage licensed in Maryland offering agents the best environment to earn and learn!
 @endsection
 @section('meta-keywords')
 100 commission real estate brokerage maryland, 100&#37; commission real estate, one hundred percent commission, 100 percent real estate broker, 100&#37; commission real estate maryland
@@ -83,7 +83,7 @@ Frequently asked questions of the best 100&#37; commission real estate brokerage
 				<!-- Card body -->
 				<div id="collapseThree31" class="collapse" role="tabpanel" aria-labelledby="headingThree31" data-parent="#accordionEx1">
 					<div class="card-body">
-						E&O Insurance is $340 for the year, which we take in two payments of $170. 
+						E&O Insurance is $340 for the year, which we take in two payments of $170.
 						There are no startup or desk fees.
 						You will be responsible for your own marketing costs (signs, printing, business cards, etc.)
 					</div>
@@ -145,7 +145,7 @@ Frequently asked questions of the best 100&#37; commission real estate brokerage
 				<!-- Card body -->
 				<div id="collapseSeven71" class="collapse" role="tabpanel" aria-labelledby="headingSeven71" data-parent="#accordionEx1">
 					<div class="card-body">
-						Taylor Properties prides itself in the amount of support we provide our agents. Looking at our Google reviews, we are known to go above and beyond agent expectaction when it comes to support.
+						Anne Arundel Properties prides itself in the amount of support we provide our agents. Looking at our Google reviews, we are known to go above and beyond agent expectaction when it comes to support.
 
 						You will able to get your questions answered outside of normal business hours should the need arise. Depending on the time and situation, you could contact our VP of Operations or Broker.
 					</div>

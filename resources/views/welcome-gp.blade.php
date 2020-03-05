@@ -53,10 +53,10 @@
                 <div class="intro-text">
                     <p class="intro-open text-center font-12">They say "home is where the heart is" and
                         we know that finding the perfect home can be a daunting task. You need an experienced partner who
-                        knows the neighborhoods, the market and the process. At Taylor Properties, we understand that you are
+                        knows the neighborhoods, the market and the process. At Anne Arundel Properties, we understand that you are
                         not just selling or buying a house. It is much more than that!</p>
                     <h6 class="intro-close text-center text-primary" style="font-size: 1.4rem;font-family: 'Merriweather', serif;font-weight: 700;">
-                        Taylor&nbsp;Properties. Love&nbsp;your&nbsp;home.</h6>
+                        Anne Arundel Properties. Love&nbsp;your&nbsp;home.</h6>
                 </div>
             </div>
         </div>
@@ -76,7 +76,7 @@
                                     <div class="text-white text-center d-flex align-items-center rgba-stylish-strong py-5 px-4">
                                         <div>
                                             <h3 class="pt-2 text-white"><strong>Search Local Agents</strong></h3>
-                                            <p>Having the right agent makes all the difference in finding that perfect home. Taylor Properties has over 800 local agents serving the Washington D.C., Maryland, Virginia and Pennsylvania regions.</p>
+                                            <p>Having the right agent makes all the difference in finding that perfect home. Anne Arundel Properties has over 800 local agents serving the Washington D.C., Maryland, Virginia and Pennsylvania regions.</p>
                                             <a class="btn btn-orange waves-effect waves-light" href="/agents"><i class="fas fa-search left"></i> Search Agents</a>
                                         </div>
                                     </div>
@@ -92,7 +92,7 @@
                                     <div class="text-white text-center d-flex align-items-center rgba-stylish-strong py-5 px-4">
                                         <div>
                                             <h3 class="pt-2 text-white"><strong>Careers</strong></h3>
-                                            <p>Looking for a career change or a better brokerage for your needs? Get 100% Commission and see why Taylor Properties is now the largest independent brokerage in Maryland. </p>
+                                            <p>Looking for a career change or a better brokerage for your needs? Get 100% Commission and see why Anne Arundel Properties is now the largest independent brokerage in Maryland. </p>
                                             <a class="btn btn-orange waves-effect waves-light" href="/careers"><i class="fas fa-search left"></i> Join Us</a>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                     <div class="card bg-primary-dark">
                         <div class="card-body white-text">
                             <h4 class="card-title"><a href="/agents" class="orange-text"><i class="fal fa-person-sign mr-3 fa-1x"></i> Need an Agent?</a></h4>
-                            <p class="card-text white-text"> Having the right agent makes all the difference in finding that perfect home. Taylor Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.
+                            <p class="card-text white-text"> Having the right agent makes all the difference in finding that perfect home. Anne Arundel Properties has over 800 local agents serving the Maryland, Washington DC, Virginia and Pennsylvania regions.
                                 <br>
                                 <a href="/agents" class="btn btn-secondary btn-sm">Search Agents</a>
                             </p>
@@ -127,7 +127,7 @@
                             <p class="card-text white-text">
                                 <strong>Make The Move!</strong><br>
                                 Looking for a career change or a better brokerage for your
-                                needs? See why Taylor Properties is now the largest independent brokerage in Maryland.
+                                needs? See why Anne Arundel Properties is now the largest independent brokerage in Maryland.
                                 <br>
                                 <a href="/careers" class="btn btn-secondary btn-sm">View Details</a>
                             </p>

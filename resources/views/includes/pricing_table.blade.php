@@ -3,7 +3,6 @@
         <div class="row">
             <div class="col-md-12 pricing">
 				<h2 class="h1-responsive font-weight-bold text-primary">100% Commission and 85% Commission Plans.</h2>
-				<h4>Licensed in Maryland, DC, Virginia and Pennsylvania</h4>
             </div>
         </div>
         <div class="row">

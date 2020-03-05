@@ -1,11 +1,20 @@
 .main-nav {
-	height: 75px;
+	//height: 75px;
 
 	.navbar-brand img {
-		max-width: 150px;
-	}
+        max-width: 150px;
+        max-height: 100px;
+    }
+    .nav-item{
+        padding: 0 2px;
+    }
+    @media only screen and (max-width: 767px) {
+        #logo {
+            content: url('/images/logos/logo-horizantal-white.png') !important;
+        }
+    }
 
-	.scrolling-navbar {
+	/* .scrolling-navbar {
 		padding-top: 7px;
 		padding-bottom: 7px;
 	}
@@ -38,5 +47,5 @@
             top: 80px;
         }
     }
-
+ */
 }

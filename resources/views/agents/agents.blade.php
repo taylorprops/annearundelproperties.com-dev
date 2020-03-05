@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Find an Agent | Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
+@section('title', 'Find an Agent | Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')
 @section('content')
 <div class="page-container page-our-agents pt-5">
     <div class="container mb-0">

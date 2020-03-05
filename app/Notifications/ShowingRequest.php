@@ -39,14 +39,14 @@ class ShowingRequest extends Notification {
         $ccs = Config::get('email_routing.showing_request_ccs.emails');
         if($ccs != '') {
             return (new MailMessage)
-                -> from('clientservices@taylorprops.com', 'Taylor Properties - Showing Requests')
+                -> from('clientservices@taylorprops.com', 'Anne Arundel Properties - Showing Requests')
                 -> cc(explode(',', Config::get('email_routing.showing_request_ccs.emails')))
-                -> subject('Showing Request from www.taylorproperties.co')
+                -> subject('Showing Request from www.AnneArundelProperties.com')
                 -> markdown('mail.listings.showing_request', ['showing' => $this -> showing]);
         } else {
             return (new MailMessage)
-            -> from('clientservices@taylorprops.com', 'Taylor Properties - Showing Requests')
-                -> subject('Showing Request from www.taylorproperties.co')
+            -> from('clientservices@taylorprops.com', 'Anne Arundel Properties - Showing Requests')
+                -> subject('Showing Request from www.AnneArundelProperties.com')
                 -> markdown('mail.listings.showing_request', ['showing' => $this -> showing]);
         }
     }

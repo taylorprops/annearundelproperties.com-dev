@@ -13,9 +13,9 @@ class ShareController extends Controller
         $from_email = $request -> from_email;
         $type = $request -> type;
         if($type == 'listing') {
-            $subject = $from_name.' just shared a property they found on Taylor Properties website';
+            $subject = $from_name.' just shared a property they found on Anne Arundel Properties website';
         } else if($type == 'agent') {
-            $subject = $from_name.' just shared a Taylor Properties agent with you.';
+            $subject = $from_name.' just shared a Anne Arundel Properties agent with you.';
         }
 
         $share = array();

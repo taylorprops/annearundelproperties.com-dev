@@ -62,7 +62,7 @@ class RegisterController extends Controller {
 
                 // add to leads
                 $lead = new Leads();
-                $lead -> l_source = 'www.TaylorProperties.co';
+                $lead -> l_source = 'www.AnneArundelProperties.com';
                 $lead -> l1_email = $email;
                 $lead -> l1_first = substr($name, 0, strpos($name, ' '));
                 $lead -> l1_last = substr($name, strpos($name, ' '));

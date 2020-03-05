@@ -1,5 +1,5 @@
 @extends('layouts.app')
-{{--@section('title', 'Taylor Properties | Buying and Selling Real Estate in DC, MD, VA and PA')--}}
+{{--@section('title', 'Anne Arundel Properties | Buying and Selling Real Estate in DC, MD, VA and PA')--}}
 @section('content')
 <style>
 .input-group.md-form.form-sm.form-2 input.white-border  {
@@ -45,8 +45,8 @@
     <div class="container" style="margin-top: 75px;">
         <div class="row-fluid">
             <div class="intro-text">
-                <p class="intro-open" style="font-size: 1.2rem;">They say "home is where the heart is" and we know that finding the perfect home can be a daunting task. You need an experienced partner who knows the neighborhoods, the market and the process. At Taylor Properties, we understand that we are not only selling or buying your home. It is much more than that.</p>
-                <p class="intro-close text-primary" style="font-size: 1.4rem;font-family: 'Merriweather', serif;font-weight: 700;">Taylor&nbsp;Properties. Love&nbsp;your&nbsp;home.</p>
+                <p class="intro-open" style="font-size: 1.2rem;">They say "home is where the heart is" and we know that finding the perfect home can be a daunting task. You need an experienced partner who knows the neighborhoods, the market and the process. At Anne Arundel Properties, we understand that we are not only selling or buying your home. It is much more than that.</p>
+                <p class="intro-close text-primary" style="font-size: 1.4rem;font-family: 'Merriweather', serif;font-weight: 700;">Anne Arundel Properties. Love&nbsp;your&nbsp;home.</p>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@
                           <div class="text-white text-center d-flex align-items-center rgba-blue-strong py-5 px-4">
                             <div>
                               <h3 class="pt-2 text-white"><strong>Search Local Agents</strong></h3>
-                              <p>Having the right agent makes all the difference in finding that perfect home. Taylor Properties has over 800 local agents serving the Washington D.C., Maryland, Virginia and Pennsylvania regions.</p>
+                              <p>Having the right agent makes all the difference in finding that perfect home. Anne Arundel Properties has over 800 local agents serving the Washington D.C., Maryland, Virginia and Pennsylvania regions.</p>
                               <a class="btn btn-deep-orange waves-effect waves-light"><i class="fas fa-search left"></i> Search Agents</a>
                             </div>
                           </div>

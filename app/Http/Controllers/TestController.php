@@ -61,7 +61,7 @@ class TestController extends Controller
 
         $grouped -> toArray();
 
-        $tp = $grouped -> get('Taylor Properties') -> all();
+        $tp = $grouped -> get('Anne Arundel Properties') -> all();
         $aap = $grouped -> get('Anne Arundel Properties') -> all();
 
         echo '<pre>'; print_r($aap); echo '</pre>';
