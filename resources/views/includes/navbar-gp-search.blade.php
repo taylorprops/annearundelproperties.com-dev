@@ -1,18 +1,19 @@
 <style>
-.nav-item{
-    padding: 0 2px;
-}
-@media only screen and (max-width: 767px) {
+    .container {
+        margin-bottom: 68px;
+    }
+    .nav-item{
+        padding: 0 2px;
+    }
     #logo {
         content: url('/images/logos/logo-horizantal-white.png') !important;
     }
-}
 </style>
 
 <div class="container">
     <div class="row">
     <!--Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top scrolling-navbar main-nav p-0 p-lg-4">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top scrolling-navbar main-nav p-0">
         <a class="navbar-brand" href="/">
             <img id="logo" src="{{ asset('images/logos/logo-horizantal-white.png') }}" alt="Anne Arundel Properties" width="150">
         </a>
