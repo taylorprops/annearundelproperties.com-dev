@@ -55,7 +55,7 @@
     "lightbox2": "^2.11.0",
     "lightgallery": "^1.6.12",
     "prettydiff": "^101.2.6",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "whatwg-fetch": "^3.0.0"
   },
   "name": "annearundelproperties-dev",
